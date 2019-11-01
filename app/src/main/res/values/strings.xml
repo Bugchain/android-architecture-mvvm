@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Architecture MVVM</string>
+    <string name="input_title_hint">Title</string>
+    <string name="input_description_hint">Description (optional)</string>
+    <string name="save">Save</string>
+    <string name="show_preview">Show Preview</string>
+    <string name="title_2">Title :</string>
+    <string name="description_2">Description :</string>
+</resources>
